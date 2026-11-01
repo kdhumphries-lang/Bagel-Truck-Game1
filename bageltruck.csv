@@ -1,0 +1,31 @@
+day,dayofweek,location,bagelmade,bagelsold,profit,totalprofit,avgprofit
+1,Monday,Brooklyn Bridge,125,79,135,135,135
+2,Tuesday,Central Park,250,67,42.5,177.5,88.75
+3,Wednesday,Time Square,175,137,255,432.5,144.17
+4,Thursday,Empire State Building,200,50,25,457.5,114.38
+5,Friday,Wall Street,85,51,85,542.5,108.5
+6,Saturday,Time Square,175,89,135,677.5,112.92
+7,Sunday,Wall Street,150,51,52.5,730,104.29
+8,Monday,Empire State Building,250,111,152.5,882.5,110.31
+9,Tuesday,Central Park,170,88,135,1017.5,113.06
+10,Wednesday,Madison Square Garden,180,75,97.5,1115,111.5
+11,Thursday,Time Square,200,57,42.5,1157.5,105.23
+12,Friday,Brooklyn Bridge,75,58,107.5,1265,105.42
+13,Saturday,Freedom Tower,165,73,100,1365,105
+14,Sunday,Central Park,195,88,122.5,1487.5,106.25
+15,Monday,Brooklyn Bridge,275,54,-2.5,1485,99
+16,Tuesday,Central Park,175,53,45,1530,95.63
+17,Wednesday,Freedom Tower,200,62,55,1585,93.24
+18,Thursday,Madison Square Garden,175,58,57.5,1642.5,91.25
+19,Friday,Brooklyn Bridge,150,58,70,1712.5,90.13
+20,Saturday,Empire State Building,250,71,52.5,1765,88.25
+21,Sunday,Madison Square Garden,175,86,127.5,1892.5,90.12
+22,Monday,Brooklyn Bridge,195,63,60,1952.5,88.75
+23,Tuesday,Brooklyn Bridge,135,69,105,2057.5,89.46
+24,Wednesday,Freedom Tower,150,76,115,2172.5,90.52
+25,Thursday,Central Park,150,111,202.5,2375,95
+26,Friday,Wall Street,180,53,42.5,2417.5,92.98
+27,Saturday,Madison Square Garden,175,59,60,2477.5,91.76
+28,Sunday,Freedom Tower,180,80,110,2587.5,92.41
+29,Monday,Wall Street,200,71,77.5,2665,91.9
+30,Tuesday,Time Square,175,76,102.5,2767.5,92.25
